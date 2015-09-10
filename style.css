@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+*{
+font-family: 'Open Sans', sans-serif;
+margin: 0;
+padding: 0;
+}
+
+.axis path, .axis line{
+	stroke: black;
+	fill: none;
+	shape-rendering: crispEdges;
+
+}
+.tip_one{
+	transition: 0.5s ease all;
+}
+
+
+
+.grid .tick {
+    stroke: lightgrey;
+    opacity: 0.7;
+}
+.grid path {
+      stroke-width: 0;
+}
+.grid .tick {
+    stroke: lightgrey;
+    opacity: 0.7;
+}
+.grid path {
+      stroke-width: 0;
+}
+
+/*              */
+
+
+#chart{
+  text-align: center;
+  background-color: #bdc3c7;
+}
+
+#chart_bar{
+  text-align: center;
+  background-color: #34495e;
+}
+
+#pie{
+  text-align: center;
+  background-color: #8e44ad;
+}
+
+p{
+  font-size: 1.3em;
+}
+
+h2{
+  width: 100%;
+  text-align: center;
+}
+h1{
+  font-size: 3.5em;
+}
