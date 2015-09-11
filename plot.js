@@ -16,7 +16,7 @@ var data = [
 	{x: 40, y: 88, 'name': 'SK'},
 	{x: 22, y: 0, 'name': 'AB'},
 	{x: 70, y: 20, 'name': 'NL'},
-	{x: 63, y: 4, 'name': 'NT'},
+	{x: 63, y: 36, 'name': 'NT'},
 	{x: 3, y: 13, 'name': 'YT'},
 	{x: 23, y: 33, 'name': 'NU'}
 
