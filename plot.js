@@ -6,16 +6,19 @@ var margin = {bottom: 20, top: 40, left: 40, right: 20};
 
 
 var data = [
-	{x: 0, y: 0, 'name': 'AB'},
-	{x: 50, y: 10, 'name': 'ON'},
-	{x: 60, y: 20, 'name': 'QU'},
-	{x: 10, y: 41, 'name': 'MA'},
-	{x: 34, y: 55, 'name': 'SA'},
+	{x: 0, y: 0, 'name': 'ON'},
+	{x: 50, y: 10, 'name': 'QC'},
+	{x: 60, y: 20, 'name': 'NS'},
+	{x: 10, y: 41, 'name': 'NB'},
+	{x: 34, y: 55, 'name': 'MB'},
 	{x: 39, y: 67, 'name': 'BC' },
-	{x: 44, y: 77, 'name': 'NU'},
-	{x: 40, y: 88, 'name': 'YU'},
-	{x: 22, y: 0, 'name': 'NS'},
-	{x: 190, y: 120, 'name': 'NF'}
+	{x: 44, y: 77, 'name': 'PE'},
+	{x: 40, y: 88, 'name': 'SK'},
+	{x: 22, y: 0, 'name': 'AB'},
+	{x: 70, y: 20, 'name': 'NL'},
+	{x: 63, y: 4, 'name': 'NT'},
+	{x: 3, y: 13, 'name': 'YT'},
+	{x: 23, y: 33, 'name': 'NU'}
 
 ];
 
